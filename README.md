@@ -44,9 +44,6 @@ These questions were addressed using sophisticated SQL queries, which allowed fo
 
 The insights derived from the analysis were visualized using Power BI, resulting in an interactive and user-friendly report. This report contains various visualizations, such as demographic breakdowns, age distributions, employment trends, and more, providing a comprehensive view of the workforce data.
 
-## Accessing the Report
-
-The Power BI report, "HR Employee Report", can be accessed through [link or instructions]. This interactive report offers a dynamic way to explore the data and uncover deeper insights.
 
 ## Conclusion
 
